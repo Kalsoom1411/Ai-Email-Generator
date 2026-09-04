@@ -49,6 +49,10 @@ GROQ_API_KEY
 5. Run the application.
 6. Open the Gradio public URL.
 
+## 🌐 Live Demo
+
+[Try the AI Email Generator] (https://5388c454c03018364a.gradio.live/)
+
 ## 📌 Deployment
 
 The application is deployed temporarily through Gradio's public sharing feature while running in Google Colab.
